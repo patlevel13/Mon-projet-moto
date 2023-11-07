@@ -3,3 +3,5 @@
 ## TEST README ##
 
 *cou cou*
+
+:smiley_cat:
