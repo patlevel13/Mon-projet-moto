@@ -3,6 +3,7 @@
     box-sizing: border-box;
     width: 100%;
     align-items: center;
+    background-color: #41d623;
 }
 
 .menu>div {
@@ -49,10 +50,16 @@ aside {
     height: 80vh;
     border: 1px solid #000;
     width: 20%;
+    background-color: #6865b9;
 }
 
 main {
     width: 80%;
+    background-image: url(images/circuit\ moto.jpg);
+    background-position: center;
+    margin-top: 0px;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 li {
@@ -68,4 +75,20 @@ section {
     border: solid;
     border-style: #000;
     margin: 100px 100px 50px 150px;
+}
+h1{
+    background-color: #000;
+    color: #f3ebeb;
+    margin-top: auto;
+}
+article {
+    background-color: #f3eeee;
+}
+video {
+    margin-left:60px;
+    margin-top: 10px;
+}
+.mp4 {
+    text-align:center;
+    font-weight: bold;
 }
